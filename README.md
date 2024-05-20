@@ -26,4 +26,5 @@ To run this project, adding the prebuilt distribution of OpenCV is necessary. Do
 
 
 ## License
+The utilized OpenCV library is licensed under the Apache 2 License: [opencv.org/license/](https://opencv.org/license/).
 
